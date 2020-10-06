@@ -22,6 +22,7 @@
     "@vue/eslint-config-prettier": "^3.0.0",
     "tailwindcss": "^1.8.10",
     "tailwindcss-triangle-after": "^1.2.0",
+    "vue-jest": "^3.0.7",
     "vue-template-compiler": "^2.5.17"
   },
   "postcss": {
